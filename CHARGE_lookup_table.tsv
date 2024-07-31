@@ -1,424 +1,424 @@
-filename	id	trait	notes	build
-sub20171222/appendicularleanmass.results.metal.txt				
-sub20171222/wholebodyleanmass.results.metal.txt				
-sub20180728_04/final_meta_fibrinogen_circ2013_dbgap.csv				
-sub20180728_04/dbGaP.fibrinogen_multiethnic.meta.txt				
-sub20180108_01/MEDIA_HapMap_T2D_baseline.txt				
-sub20181101/CKDGen_1000Genomes_DiscoveryMeta_eGFRcrea_overall_chr_pos.csv				
-sub20180110/AAAGC_1KGP_WHR_MEN_DISCOVERY.txt				
-sub20180110/AAAGC_1KGP_BMI_ALL_DISCOVERY.txt				
-sub20180110/AAAGC_1KGP_BMI_MEN_DISCOVERY.txt				
-sub20180110/AAAGC_1KGP_WHR_ALL_DISCOVERY.txt				
-sub20180110/AAAGC_1KGP_WHR_WOMEN_DISCOVERY.txt				
-sub20180110/AAAGC_1KGP_BMI_WOMEN_DISCOVERY.txt				
-sub20151201/meta_v2_ratio_overall.csv				
-sub20151201/meta_fev_v2_never.csv				
-sub20151201/meta_v2_ratio_never.csv				
-sub20151201/meta_fev_v2_overall.csv				
-sub20151201/metaratio_v2_merge_ever.csv				
-sub20151201/Out_Ever_FEV11.txt				
-sub20150603/CHARGE_N3_DPA.txt				
-sub20150603/CHARGE_N3_ALA.txt				
-sub20150603/CHARGE_N3_EPA.txt				
-sub20150603/CHARGE_N3_DHA.txt				
-sub20180725/SVE.african.results.metal.csv				
-sub20180725/VE.transethnic.results.metal.csv				
-sub20180725/SVE.transethnic.results.metal.csv				
-sub20180725/VE.hispanic.results.metal.csv				
-sub20180725/VE.african.results.metal.csv				
-sub20180725/SVE.european.results.metal.csv				
-sub20180725/SVE.hispanic.results.metal.csv				
-sub20180725/VE.european.results.metal.csv				
-sub20190511/invnormFT4_women_150611_invvar1.txt-QCfiltered_GC.rsid.txt				
-sub20190511/invnormTSH_women_150611_invvar1.txt-QCfiltered_GC.rsid.txt				
-sub20190511/invnormFT4_overall_150611_invvar1.txt-QCfiltered_GC.rsid.txt				
-sub20190511/incTSH_overall_150602_invvar1.txt-QCfiltered_GC.rsid.txt				
-sub20190511/invnormFT4_men_150611_invvar1.txt-QCfiltered_GC.rsid.txt				
-sub20190511/invnormTSH_overall_150611_invvar1.txt-QCfiltered_GC.rsid.txt				
-sub20190511/invnormTSH_men_150611_invvar1.txt-QCfiltered_GC.rsid.txt				
-sub20190511/decTSH_overall_150602_invvar1.txt-QCfiltered_GC.rsid.txt				
-sub20180803/CKDGen-UACR_meta_post.csv				
-sub20180803/CKDGen-MA_meta_post.csv				
-sub20180803/CKDGen-CKD_meta_post.csv				
-sub20180803/CKDGen-eGFRcys_meta_post.csv				
-sub20180803/CKDGen-eGFRcrea_meta_post.csv				
-sub20171223_01/CHARGENutr_Fishintake_META.txt				
-sub20171223_01/CHARGENutr_EPADHA_GWAS.txt				
-sub20200609/Meta_Analysis_VTE_EA_AA_JUNE2018_dbgap.csv				
-sub20160202/FF_SpiroMetaCHARGE_results_PMID219463501.csv				
-sub20160202/FEV1_SpiroMetaCHARGE_results_PMID219463501.csv				
-sub20160313/airflow_obstruction_GWAS_results_5definitions_allinfo.csv				
-sub20160313/airflow_obstruction_GWAS_results_5definitions.csv				
-sub20180807/CKDGen_Progression_DiscoveryMeta_eGFRdecline_overall.csv				
-sub20180807/CKDGen_Progression_DiscoveryMeta_Rapid3_noCKD.csv				
-sub20180807/CKDGen_Progression_DiscoveryMeta_Rapid3_overall.csv				
-sub20180807/CKDGen_Progression_DiscoveryMeta_CKDi_overall.csv				
-sub20180807/CKDGen_Progression_DiscoveryMeta_eGFRdecline_noCKD.csv				
-sub20180807/CKDGen_Progression_DiscoveryMeta_eGFRdecline_CKD.csv				
-sub20180807/CKDGen_Progression_DiscoveryMeta_CKDi25_overall.csv				
-sub20190512/COGENT_Kidney_eGFR_trans_ethnic.txt				
-sub20190512/COGENT_Kidney_eGFR_trans_ethnic_fine_mapping.txt				
-sub20150623/lymphocytes.metal.txt				
-sub20150623/WBC.metal.txt				
-sub20150623/neutrophils.metal.txt				
-sub20150623/monocytes.metal.txt				
-sub20150623/eosinophils.metal.txt				
-sub20150623/basophils.metal.txt				
-sub20201231/BMB_any_withexclusions_sumstats_dbGaP.txt				
-sub20201231/BMB_mixed_or_strictlydeep_noexclusions_sumstats_dbGaP.txt				
-sub20201231/BMB_any_noexclusions_sumstats_dbGaP.txt				
-sub20201231/BMB_strictlylobar_withexclusions_sumstats_dbGaP.txt				
-sub20201231/BMB_strictlylobar_noexclusions_sumstats_dbGaP.txt				
-sub20201231/BMB_mixed_or_strictlydeep_withexclusions_sumstats_dbGaP.txt				
-sub20180817/DBP.results.metal.txt				
-sub20180817/SBP.results.metal.txt				
-sub20180817/HTN.results.metal.txt				
-sub20180817/PP.results.metal.txt				
-sub20161116/METAL_output_SNPTCAinteractions_RR_HSP.txt				
-sub20161116/METAL_output_SNPTCAinteractions_RRAA.txt				
-sub20161116/METAL_output_TCASNPinteractions_QT_EA.txt				
-sub20161116/METAL_output_TCASNPinteractions_QT_AA.txt				
-sub20161116/Original_METAL_output_SNPTCAinteractions_RR_EA.txt				
-sub20161116/TABLE_S1A_CHARGE_AD_ExomeChip_summary_SNP_14Oct2016.txt				
-sub20161116/METAL_output_TCASNPinteractions_QT_HSP.txt				
-sub20161116/METAL_output_SNPTCAinteractions_RR_EA.txt				
-sub20161116/TABLE_S1B_CHARGE_AD_ExomeChip_summary_SKAT_14Oct2016.txt				
-sub20200523_02/HF_B.inc.maf7.5_dbgap.csv	incident_HF_AFR	Incident Heart Failure in Adults of African ancestry		
-sub20200523_02/HF_W.metal.small.postmaf1.5_dbgap.csv	incident_HF_EUR	Incident Heart Failure in Adults of European ancestry		
-v7_pha.txt				
-sub20220411/genesis_chr10_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr05_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr21_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr11_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr13_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr07_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr12_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr01_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr02_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr17_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr06_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr19_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr08_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr20_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr16_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr14_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr03_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr04_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr18_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr15_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr09_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20220411/genesis_chr22_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics	
-sub20170219/All_across_dbGap_alcohol_categorical.csv				
-sub20170219/AA_dbGap_alcohol_continuous.csv				
-sub20170219/All_across_dbGap_alcohol_continuous.csv				
-sub20170219/EA_dbGap_alcohol_continuous.csv				
-sub20170219/EA_dbGap_alcohol_categorical.csv				
-sub20170219/AA_dbGap_alcohol_categorical.csv				
-sub20161126/CRP.METAL.19.06.2009.AllSNPs.csv				
-sub20180730_01/CKDGen_1000Genomes_DiscoveryMeta_eGFRcys_overall.csv				
-sub20180730_01/CKDGen_1000Genomes_DiscoveryMeta_eGFRcrea_overall.csv				
-sub20180730_01/CKDGen_1000Genomes_DiscoveryMeta_eGFRcrea_overall_chr_pos.csv				
-sub20171223_02/log_EWAS_COPD_gwasSnps_AnnotatedResults_rs13180_3models.txt				
-sub20171223_02/log_EWAS_COPD_gwasSnps_AnnotatedResults_rs8034191_3models.txt				
-sub20171223_02/log_EWAS_COPD_gwasSnps_AnnotatedResults_rs8042238_3models.txt				
-sub20171223_02/log_EWAS_COPD_gwasSnps_AnnotatedResults_rs12914385_3models.txt				
-sub20170707/Metal_complete_overall_all45ed_aug11_filter_corrHBCS_neff1.csv				
-sub20170706_01/WML_ALL.csv				
-sub20170706_01/WML_EUR.csv				
-sub20181226/F8_meta_beta_ARICf_ARICm_CHSf_CHSm_RSf_RSm_dbgap.v2.csv				
-sub20181226/F7_meta_p-value_FHS_ARIC_RS_CHS_complete_dbgap..v1.csv				
-sub20181226/F7_meta_p-value_FHS_ARICf_ARICm_RSf_RSm_CHSf_CHSm_dbgap.v2.csv				
-sub20181226/vWF_meta_beta_FHS_ARICf_ARICm_RSf_RSm_B58Cf_B58Cm_RS_RS_X_dbgap.csv				
-sub20181226/vWF_meta_beta_FHS_ARIC_RS_B58C_RS-ext_Age_Sex_complete_dbgap.csv				
-sub20181226/sub20190101_02/F7_meta_p-value_FHS_ARICf_ARICm_RSf_RSm_CHSf_CHSm_dbgap.v2.csv				
-sub20181226/F8_meta_beta_ARIC_CHS_RS_Age_Sex_complete_dbgap.v1.csv				
-sub20151005/dbg_mi_ace.invvar.beta5.metal.filtered101.txt				
-sub20151005/dbg_cv_ccb.invvar.beta5.metal.filtered101.txt				
-sub20151005/dbg_mi_bb.invvar.beta5.metal.filtered101.txt				
-sub20151005/dbg_cv_ace.invvar.beta5.metal.filtered101.txt				
-sub20151005/dbg_mi_ccb.invvar.beta5.metal.filtered101.txt				
-sub20151005/dbg_cv_diur.invvar.beta5.metal.filtered101.txt				
-sub20151005/dbg_cv_bb.invvar.beta5.metal.filtered101.txt				
-sub20151005/dbg_mi_diu.invvar.beta5.metal.filtered101.txt				
-sub20190101_01/su-qrs-ea.results.metal.txt				
-sub20160828/Teumer/IGFBP3_overall_meta_r1_combined_samplesize1.txt_GC.csvQCfiltered.txt				
-sub20160828/Teumer/IGF1_men_meta_r1_combined_samplesize1.txt_GC.csvQCfiltered.txt				
-sub20160828/Teumer/IGFBP3_women_meta_r1_combined_samplesize1.txt_GC.csvQCfiltered.txt				
-sub20160828/Teumer/IGFBP3_men_meta_r1_combined_samplesize1.txt_GC.csvQCfiltered.txt				
-sub20160828/Teumer/IGF1_overall_meta_r1_combined_samplesize1.txt_GC.csvQCfiltered.txt				
-sub20160828/Teumer/IGF1_women_meta_r1_combined_samplesize1.txt_GC.csvQCfiltered.txt				
-sub20160828/Liu/DBP_all_ethnic_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/MAP_AA_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/DBP_HIS_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/MAP_EA_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/SBP_all_ethnic_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/PP_AA_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/MAP_all_ethnic_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/SBP_AA_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/DBP_EA_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/HTN_all_ethnic_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/DBP_AA_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/PP_all_ethnic_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/HTN_EA_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/HTN_HIS_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/SBP_HIS_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/SBP_EA_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/MAP_HIS_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/HTN_AA_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/PP_HIS_CHARGE_lookup_dbGap2.csv				
-sub20160828/Liu/PP_EA_CHARGE_lookup_dbGap2.csv				
-sub20200919/INVENT_MetaVT_AJHG2015_dbgap_v2.csv				
-sub20160307/CHD_Discovery_AGES.ARIC.CHS.FHSnew.RS.txt				
-sub20160307/ln_fibrinogen_CHARGEconsortium_2015_filtered.txt				
-sub20160307/MI_Discovery_AGES.ARIC.CHS.FHSnew.RS.txt				
-sub20161219/men_dichotomous_alcohol.csv				
-sub20161219/pooled_dichotomous_alcohol.csv				
-sub20161219/women_dichotomous_alcohol.csv				
-sub20161219/men_continuous_alcohol.csv				
-sub20161219/women_continuous_alcohol.csv				
-sub20161219/pooled_continuous_alcohol.csv				
-sub20150818/dbg_charge.plq.meta7.csv				
-sub20150818/dbg_charge.IMT.meta9b.csv				
-sub20200523_05/EchoGen-EEP-fullresults_dbgap.csv	E/Eprime	Ratio of the peak velocity of the excursion of the lateral mitral annulus in the early diastolic phase by TDI and the peak velocity of the mitral Ewave by Doppler imaging 		
-sub20200523_05/EchoGen.LVM.fullresults_dbgap.csv	LVM	LV mass		
-sub20200523_05/EchoGen.LVSD.fullresults_dbgap.csv	LVSD	LV systolic dysfunction		
-sub20200523_05/EchoGen-DD-fullresults_dbgap.csv	DD	LV Diastolic Dysfunction		
-sub20200523_05/EchoGen-HFPEF-fullresults_dbgap.csv	HFpEF	Heart Failure with preserved ejection fraction		
-sub20200523_05/EchoGen-DDPEF-fullresults_dbgap.csv	DDpEF	Diastolic Dysfunction with preserved ejection fraction		
-sub20200523_05/EchoGen.LA.fullresults_dbgap.csv	LA	Left atrial antero-posterior diameter 		
-sub20200523_05/EchoGen-Decel-fullresults_dbgap.csv	DecTime	Deceleration time of the mitral E-wave 		
-sub20200523_05/EchoGen-EA-fullresults_dbgap.csv	E/A	Ratio of the peak velocity of the mitral E-Wave divided by the peak velocity of the mitral A-wave		
-sub20200523_05/EchoGen-A-fullresults_dbgap.csv	MVA vel	Peak velocity of the mitral A-wave		
-sub20200523_05/EchoGen.FS.fullresults_dbgap.csv	FS	Left ventricular fractional shortening		
-sub20200523_05/EchoGen-E-fullresults_dbgap.csv	MVE vel	Peak velocity of the mitral E-wave		
-sub20200523_05/EchoGen.LVDD.fullresults_dbgap.csv	LVDD	LV diastolic internal dimension		
-sub20200523_05/EchoGen.AOD.fullresults_dbgap.csv	AoD	Aortic Root Diameter		
-sub20200523_05/EchoGen-IVRT-fullresults_dbgap.csv	IVRT	Isovolumetric relaxation time		
-sub20200523_05/EchoGen-EP-fullresults_dbgap.csv	Eprime	Peak velocity of the excursion of the lateral mitral annulus in the early diastolic phase		
-sub20200523_05/EchoGen.LVWT.fullresults_dbgap.csv	LVWT	LV wall thickness		
-sub20200401/CACdich100_fe_10_29_2010_15_24_91.txt				
-sub20190527_02/TRANS.HDL.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/EUR.TG.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/TRANS.TG.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/EUR.HDL.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/HISP.TG.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/HISP.HDL.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/HISP.HDL.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/HISP.LDL.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/TRANS.HDL.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/HISP.LDL.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/EUR.HDL.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/HISP.TG.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/TRANS.LDL.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/TRANS.HDL.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/HISP.LDL.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/EUR.LDL.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/EUR.TG.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/HISP.TG.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/TRANS.LDL.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/HISP.HDL.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/EUR.LDL.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/EUR.HDL.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/TRANS.TG.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/HISP.LDL.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/EUR.LDL.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/TRANS.TG.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/HISP.TG.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/TRANS.LDL.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/EUR.TG.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/EUR.HDL.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/TRANS.HDL.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/EUR.TG.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/EUR.LDL.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/TRANS.TG.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/TRANS.LDL.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20190527_02/HISP.HDL.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)	
-sub20151222/FVC_SpiroMetaCHARGE_results_PMID24929828.csv				
-sub20170707_01/hipp_vol_meta.csv				
-sub20190513/data_file.txt				
-sub20180728/meta-inr-no-outliers-stderr_dbgap.csv				
-sub20180728/aptt_meta_pval-unstandardized-lbc_update_dbgap.csv				
-sub20180808/formatted_round3meta_eGFRcrea_DM_IV_2GC_b36_MAFget005_Nget50_20140331.csv				
-sub20180808/formatted_round3meta_eGFRcys_overall_IV_2GC_b36_MAFget005_Nget50_20120725.csv				
-sub20180808/formatted_AA_eGFRcrea_overall_2GC_b36_MAFget005_Nget50.csv				
-sub20180808/formatted_round3meta_CKD_overall_IV_2GC_b36_MAFget005_Nget50_20120725_b37.csv				
-sub20180808/formatted_round3meta_eGFRcrea_nonDM_IV_2GC_b36_MAFget005_Nget50_20120627.csv				
-sub20180808/formatted_round3meta_eGFRcrea_overall_IV_2GC_b36_MAFget005_Nget50_20120705.csv				
-sub20180728_03/HapMapvs1000G.Fibrinogen.1000G_filtered_dbgap.csv				
-sub20180728_03/HapMapvs1000G.Fibrinogen.HapMap_filtered_dbgap.csv				
-sub20180728_03/fibrinogen.sa.final.POOLED.ABEL_dbgap.csv				
-sub20190616/20171016_MW_eGFR_overall_ALL_nstud61.dbgap.txt				
-sub20190616/BUN_overall_EA_YL_20171108_METAL1_nstud24.dbgap.txt				
-sub20190616/CKD_overall_EA_JW_20180223_nstud23.dbgap.txt				
-sub20190616/BUN_overall_ALL_YL_20171017_METAL1_nstud_33.dbgap.txt				
-sub20190616/20171017_MW_eGFR_overall_EA_nstud42.dbgap.txt				
-sub20190616/CKD_overall_ALL_JW_20180223_nstud30.dbgap.txt				
-sub20180723/bihlmeyer_2018_qt_results.tsv				
-sub20180723/bihlmeyer_2018_jt_results.tsv				
-sub20181231_01/pth.gwas.m2.txt				
-sub20170708_02/mPooledcleaned.iscstroke_SDshort.csv				
-sub20190527/AFR.LDL.EVERSMK.Int.txt			Incomplete summary statistics	
-sub20190527/AFR.LDL.CURSMK.Int.txt			Incomplete summary statistics	
-sub20190527/ASN.TG.CURSMK.Int.txt			Incomplete summary statistics	
-sub20190527/AFR.LDL.EVERSMK.2df.txt			Incomplete summary statistics	
-sub20190527/ASN.TG.EVERSMK.Int.txt			Incomplete summary statistics	
-sub20190527/ASN.LDL.CURSMK.Int.txt			Incomplete summary statistics	
-sub20190527/AFR.HDL.CURSMK.2df.txt			Incomplete summary statistics	
-sub20190527/ASN.HDL.CURSMK.2df.txt			Incomplete summary statistics	
-sub20190527/AFR.TG.CURSMK.2df.txt			Incomplete summary statistics	
-sub20190527/ASN.TG.CURSMK.2df.txt			Incomplete summary statistics	
-sub20190527/ASN.LDL.EVERSMK.Int.txt			Incomplete summary statistics	
-sub20190527/ASN.LDL.EVERSMK.2df.txt			Incomplete summary statistics	
-sub20190527/AFR.TG.EVERSMK.2df.txt			Incomplete summary statistics	
-sub20190527/ASN.TG.EVERSMK.2df.txt			Incomplete summary statistics	
-sub20190527/AFR.HDL.EVERSMK.Int.txt			Incomplete summary statistics	
-sub20190527/ASN.HDL.EVERSMK.2df.txt			Incomplete summary statistics	
-sub20190527/ASN.LDL.CURSMK.2df.txt			Incomplete summary statistics	
-sub20190527/AFR.TG.CURSMK.Int.txt			Incomplete summary statistics	
-sub20190527/AFR.TG.EVERSMK.Int.txt			Incomplete summary statistics	
-sub20190527/ASN.HDL.EVERSMK.Int.txt			Incomplete summary statistics	
-sub20190527/AFR.HDL.EVERSMK.2df.txt			Incomplete summary statistics	
-sub20190527/AFR.HDL.CURSMK.Int.txt			Incomplete summary statistics	
-sub20190527/ASN.HDL.CURSMK.Int.txt			Incomplete summary statistics	
-sub20190527/AFR.LDL.CURSMK.2df.txt			Incomplete summary statistics	
-sub20181231/fgf23gwas.model1.txt				
-sub20161118/02_TransEthnicRBC.txt				
-sub20181227/Plaque_meta_032218.csv				
-sub20181227/IMT.EA.META.MAF1.HetDF4_jun.csv				
-sub20180804/formatted_round3meta_UACR_overall_IV_2GC_b36_MAFget005_Nget50_20140505.csv				
-sub20180804/formatted_Round3_UACR_DM_2GC_b36_MAFget005_Nget50_2014_03_17.csv				
-sub20180804/formatted_Round3_UACR_noDM_2GC_b36_MAFget005_Nget50_2014_09_29.csv				
-sub20180804/formatted_MA_overall_2GC_b36_MAFget005_Nget50.csv				
-sub20180810/Published_eGFRcrea_overall_EA.csv				
-sub20180810/Published_eGFRcys_overall_AA.csv				
-sub20180810/Published_eGFRcrea_DM_EA.csv				
-sub20180810/Published_UACR_AA.csv				
-sub20180810/Published_eGFRcrea_nonDM_AA.csv				
-sub20180810/Published_eGFRcys_overall_EA.csv				
-sub20180810/Published_eGFRcrea_DM_AA.csv				
-sub20180810/Published_UACR_EA.csv				
-sub20180810/Published_eGFRcrea_overall_AA.csv				
-sub20180810/Published_eGFRcrea_nonDM_EA.csv				
-sub20200523_04/HF.mort.metabel.largeMA.maf3_dbgap.csv	HF_mort_EUR	Heart Failure Mortality in Participants of European Ancestry		
-sub20201231_01/BP-ICE_EUR_SBP_transformed_15-04-2020.txt				
-sub20201231_01/BP-ICE_PA_PP_transformed_15-04-2020.txt				
-sub20201231_01/BP-ICE_PA_SBP_transformed_15-04-2020.txt				
-sub20201231_01/BP-ICE_EUR_HTN_15-04-2020.txt				
-sub20201231_01/BP-ICE_EUR_PP_transformed_15-04-2020.txt				
-sub20201231_01/BP-ICE_PA_DBP_transformed_15-04-2020.txt				
-sub20201231_01/BP-ICE_EUR_DBP_transformed_15-04-2020.txt				
-sub20201231_01/BP-ICE_PA_HTN_15-04-2020.txt				
-sub20170706/mwmh_meta_final_SD.csv				
-sub20200523_01/FINALtrans_VWF_EA_AA_HIS.csv	vWF_MULTIETHNIC	von Willebrand Factor in multi-ethnic studies		
-sub20200523_01/FINALtrans_FVIII_EA_AA_HIS_ASN.csv	FVIII_MULTIETHNIC	Factor VIII in multi-ethnic studies		
-sub20190101/HapMap_CRP_GWAS_AJHG_2018.txt				
-sub20190101/1KG_CRP_GWAS_AJHG_2018.txt				
-sub20201228/GIST_LDLstatinResponse_HapMap_2014_Postmus_GWASmetaResults.txt				
-sub20200329/Hispanic.QRS.GWAS.FullResults.GenomicControl.Final.csv				
-sub20200329/METAL_TAC_Fullresults.txt				
-sub20200329/METAL_AAC_Fullresults.txt				
-sub20200329/BackPain_METAL_out_EUR_2017-11-08_LDSR.txt				
-sub20200416/PROCESSED.EA_HDL_STST_M1_2DF1.TBL.txt				
-sub20200416/PROCESSED.EA_LDL_STST_M1_2DF1.TBL.txt				
-sub20200416/PROCESSED.EA_LDL_LTST_M1_2DF1.TBL.txt				
-sub20200416/PROCESSED.EA_HDL_LTST_M1_2DF1.TBL.txt				
-sub20200416/PROCESSED.MULTI_HDL_LTST_M1_2DF1.TBL.txt				
-sub20200416/PROCESSED.MULTI_LDL_LTST_M1_2DF1.TBL.txt				
-sub20200416/PROCESSED.MULTI_TG_STST_M1_2DF1.TBL.txt				
-sub20200416/PROCESSED.MULTI_LDL_STST_M1_2DF1.TBL.txt				
-sub20200416/PROCESSED.EA_TG_LTST_M1_2DF1.TBL.txt				
-sub20200416/PROCESSED.MULTI_HDL_STST_M1_2DF1.TBL.txt				
-sub20200416/PROCESSED.MULTI_TG_LTST_M1_2DF1.TBL.txt				
-sub20200416/PROCESSED.EA_TG_STST_M1_2DF1.TBL.txt				
-sub20181226_01/PRO.txt	protein_intake_EUR	protein intake in European ancestry 		
-sub20181226_01/FAT.txt	fat_intake_EUR	fat intake in European ancestry 		
-sub20181226_01/CHO.txt	carbohydrate_intake_EUR	carbohydrate intake in European ancestry 		
-sub20181226_01/FAT_adjBMI.txt	fat_intake_BMI_adjusted_EUR	fat intake adjusted for BMI in European ancestry 		
-sub20181226_01/PRO_adjBMI.txt	protein_intake_BMI_adjusted_EUR	protein intake adjusted for BMI in European ancestry 		
-sub20181226_01/CHO_adjBMI.txt	carbohydrate_intake_BMI_adjusted_EUR	carbohydrate intake adjusted for BMI in European ancestry 		
-sub20200523_03/HF.mort.metabel.CHSjune09.beta5.weightedmaf3_dbgap.csv	HF_mort_EUR_AME	Heart Failure Mortality in European Americans 		
-sub20200523_03/HF_B.mort.metabel.beta5.weightedmaf13.5_dbgap.csv	HF_mort_AFR_AME	Heart Failure Mortality in African Americans		
-sub20170704/Wessel/fgluc_singleSNP_meta_eu_full_01292014_quote.csv			only low-frequency and rare variants 	
-sub20170704/Wessel/fgluc_singleSNP_meta_af_full_01292014_quote.csv			only low-frequency and rare variants 	
-sub20170704/Wessel/fgluc_MB_burden_WU_skat_meta_af_8cohorts_new.txt			only low-frequency and rare variants 	
-sub20170704/Wessel/lfins_singleSNP_meta_eu_full_11132013_quote.csv			only low-frequency and rare variants 	
-sub20170704/Wessel/fgluc_MB_burden_WU_skat_meta_eu_af_32cohorts_new.txt			only low-frequency and rare variants 	
-sub20170704/Wessel/fgluc_MB_burden_WU_skat_meta_eu_24cohorts.txt			only low-frequency and rare variants 	
-sub20170704/Wessel/fgluc_singleSNP_meta_eu_af_full_01292014_quote.csv			only low-frequency and rare variants 	
-sub20170704/Wessel/lfins_singleSNP_meta_eu_af_full_11132013_quote.csv			only low-frequency and rare variants 	
-sub20170704/Wessel/lfins_MB_burden_WU_skat_meta_eu_21cohorts_new.txt			only low-frequency and rare variants 	
-sub20170704/Wessel/lfins_singleSNP_meta_af_full_11132013_quote.csv			only low-frequency and rare variants 	
-sub20170704/Wessel/lfins_MB_burden_WU_skat_meta_eu_af_28cohorts_new.txt			only low-frequency and rare variants 	
-sub20170704/Wessel/lfins_MB_burden_WU_skat_meta_af_7cohorts_new.txt			only low-frequency and rare variants 	
-sub20170704/Floyd/suqrsha.results.metal.txt			only low-frequency and rare variants 	
-sub20170704/Floyd/suqrsaa.results.metal.txt			only low-frequency and rare variants 	
-sub20170704/Floyd/suqtea.results.metal.txt			only low-frequency and rare variants 	
-sub20170704/Floyd/suqtha.results.metal.txt			only low-frequency and rare variants 	
-sub20170704/Floyd/sujtaa.results.metal.txt			only low-frequency and rare variants 	
-sub20170704/Floyd/sujtea.results.metal.txt			only low-frequency and rare variants 	
-sub20170704/Floyd/suqrsea.results.metal.txt			only low-frequency and rare variants 	
-sub20170704/Floyd/suqtaa.results.metal.txt			only low-frequency and rare variants 	
-sub20170704/Floyd/sujtha.results.metal.txt			only low-frequency and rare variants 	
-sub20170704/Jakob/TABLE_S1A_CHARGE_AD_ExomeChip_summary_SNP_14Oct2016.txt			only low-frequency and rare variants 	
-sub20170704/Jakob/TABLE_S1B_CHARGE_AD_ExomeChip_summary_SKAT_14Oct2016.txt			only low-frequency and rare variants 	
-sub20170704/Peloso/ldl_ea_charge_exome_chip_results.txt			only low-frequency and rare variants 	
-sub20170704/Peloso/ldl_aa_charge_exome_chip_results.txt			only low-frequency and rare variants 	
-sub20170704/Peloso/hdl_aa_charge_exome_chip_results.txt			only low-frequency and rare variants 	
-sub20170704/Peloso/ltg_ea_charge_exome_chip_results.txt			only low-frequency and rare variants 	
-sub20170704/Peloso/ltg_aa_charge_exome_chip_results.txt			only low-frequency and rare variants 	
-sub20170704/Peloso/hdl_ea_charge_exome_chip_results.txt			only low-frequency and rare variants 	
-sub20180818/vv.results.metal.txt	brain_LV_volume	brain lateral ventricular volume		
-sub20200905/EchoGen-E-fullresults_dbgap.csv			duplicated file (see also in folder sub20200523_05)	
-sub20170708/TCBV_charge_meta.csv	brain_volume_non_demented_elderly_EUR	brain volume in Non-demented Elderly  in European ancestry		
-sub20170708/TCV_meta.csv	intracranial_volume_non_demented_elderly_EUR	intracranial volume in Non-demented Elderly  in European ancestry		
-sub20170708/mSCI_meta_final_Josh_SD.csv	MRI_brain_infarct_EUR	MRI-defined (slient) brain infarct in EUR ancestry		
-sub20200523/FVIIactivity_EA_AA_trans.csv	FVII_activity	Factor VII activity		
-sub20200523/FINALtrans_FVII_EA_AA.csv	FVII_activity_and_Ag	Factor VII activity and antigen		
-sub20180730/metal_European_ratio_dbgap.txt	FEV1/FVC_EUR	forced expiratory volume at 1 second to forced vital capacity ratio in European ancestry		
-sub20180730/metal_Asians_fev1_dbgap.txt	FEV1_ASN	forced expiratory volume at 1 second in Asian ancestry		
-sub20180730/metal_Hispanics_fvc_dbgap.txt	FVC_HIS	forced vital capacity in Hispanic ancestry		
-sub20180730/metal_European_fvc_dbgap.txt	FVC_EUR	forced vital capacity in European ancestry		
-sub20180730/metal_Multi_ethnic_fev1_dbgap.txt	FEV1_MULTIETHNIC	forced expiratory volume at 1 second in Multiethnic ancestry		
-sub20180730/metal_African_fvc_dbgap.txt	FVC_AFR	forced vital capacity in African ancestry		
-sub20180730/metal_African_ratio_dbgap.txt	FEV1/FVC_AFR	forced expiratory volume at 1 second to forced vital capacity ratio in African ancestry		
-sub20180730/metal_African_fev1_dbgap.txt	FEV1_AFR	forced expiratory volume at 1 second in African ancestry		
-sub20180730/metal_European_fev1_dbgap.txt	FEV1_EUR	forced expiratory volume at 1 second in European ancestry		
-sub20180730/metal_Asians_ratio_dbgap.txt	FEV1/FVC_ASN	forced expiratory volume at 1 second to forced vital capacity ratio in Asian ancestry		
-sub20180730/metal_Multi_ethnic_fvc_dbgap.txt	FVC_MULTIETHNIC	forced vital capacity in Multiethnic ancestry		
-sub20180730/metal_Asians_fvc_dbgap.txt	FVC_ASN	forced vital capacity in Asian ancestry		
-sub20180730/metal_Hispanics_ratio_dbgap.txt	FEV1/FVC_HIS	forced expiratory volume at 1 second to forced vital capacity ratio in Hispanic ancestry		
-sub20180730/metal_Hispanics_fev1_dbgap.txt	FEV1_HIS	forced expiratory volume at 1 second in Hispanic ancestry		
-sub20180730/metal_Multi_ethnic_ratio_dbgap.txt	FEV1/FVC_MULTIETHNIC	forced expiratory volume at 1 second to forced vital capacity ratio in Multiethnic ancestry		
-sub20180801/eGFR.Mendelian.Summary_Results.txt			Incomplete summary statistics	
-sub20200403/formatted_ER_overall_180803_invvar1.txt-QCfiltered_GC.txt	ERP_EUR	ECG Early Repolarization Pattern in European ancestry		
-sub20190107/HDL_JointTest_Hispanic.txt	HDL_x_PhysicalActivity_HIS	circulating  HDL levels with Physical Activity interaction term in Hispanic ancestry	Check difference between joint and interaction	
-sub20190107/LDL_Interaction_European.txt			Check difference between joint and interaction	
-sub20190107/LDL_Interaction_Asian.txt			Check difference between joint and interaction	
-sub20190107/LDL_Interaction_AfricanAmerican.txt			Check difference between joint and interaction	
-sub20190107/HDL_Interaction_European.txt			Check difference between joint and interaction	
-sub20190107/LDL_JointTest_AfricanAmerican.txt	LDL_x_PhysicalActivity_AFR	circulating LDL levels with Physical Activity interaction term in African ancestry	Check difference between joint and interaction	
-sub20190107/LDL_Interaction_All.txt			Check difference between joint and interaction	
-sub20190107/TG_JointTest_Hispanic.txt	TG_x_PhysicalActivity_HIS	circulating  Triglyceride levels with Physical Activity interaction term in Hispanic ancestry	Check difference between joint and interaction	
-sub20190107/TG_JointTest_AfricanAmerican.txt	TG_x_PhysicalActivity_AFR	circulating  Triglyceride levels with Physical Activity interaction term in African ancestry	Check difference between joint and interaction	
-sub20190107/HDL_Interaction_All.txt			Check difference between joint and interaction	
-sub20190107/LDL_JointTest_Asian.txt	LDL_x_PhysicalActivity_ASN	circulating LDL levels with Physical Activity interaction term in Asian ancestry	Check difference between joint and interaction	
-sub20190107/HDL_Interaction_AfricanAmerican.txt			Check difference between joint and interaction	
-sub20190107/HDL_JointTest_European.txt	HDL_x_PhysicalActivity_EUR	circulating  HDL levels with Physical Activity interaction term in European ancestry	Check difference between joint and interaction	
-sub20190107/LDL_Interaction_Hispanic.txt			Check difference between joint and interaction	
-sub20190107/TG_Interaction_Hispanic.txt			Check difference between joint and interaction	
-sub20190107/TG_JointTest_Asian.txt	TG_x_PhysicalActivity_ASN	circulating  Triglyceride levels with Physical Activity interaction term in Asian ancestry	Check difference between joint and interaction	
-sub20190107/HDL_JointTest_AfricanAmerican.txt	HDL_x_PhysicalActivity_AFR	circulating  HDL levels with Physical Activity interaction term in African ancestry	Check difference between joint and interaction	
-sub20190107/HDL_JointTest_All.txt	HDL_x_PhysicalActivity_MULTIETHNIC	circulating  HDL levels with Physical Activity interaction term in Multiethnic ancestry	Check difference between joint and interaction	
-sub20190107/TG_Interaction_All.txt			Check difference between joint and interaction	
-sub20190107/HDL_Interaction_Hispanic.txt			Check difference between joint and interaction	
-sub20190107/LDL_JointTest_All.txt	LDL_x_PhysicalActivity_MULTIETHNIC	circulating LDL levels with Physical Activity interaction term in Multiethnic ancestry	Check difference between joint and interaction	
-sub20190107/TG_Interaction_Asian.txt			Check difference between joint and interaction	
-sub20190107/TG_Interaction_AfricanAmerican.txt			Check difference between joint and interaction	
-sub20190107/TG_JointTest_European.txt	TG_x_PhysicalActivity_EUR	circulating  Triglyceride levels with Physical Activity interaction term in European ancestry	Check difference between joint and interaction	
-sub20190107/HDL_Interaction_Asian.txt			Check difference between joint and interaction	
-sub20190107/HDL_JointTest_Asian.txt	HDL_x_PhysicalActivity_ASN	circulating  HDL levels with Physical Activity interaction term in Asian ancestry	Check difference between joint and interaction	
-sub20190107/LDL_JointTest_European.txt	LDL_x_PhysicalActivity_EUR	circulating LDL levels with Physical Activity interaction term in European ancestry	Check difference between joint and interaction	
-sub20190107/TG_Interaction_European.txt			Check difference between joint and interaction	
-sub20190107/TG_JointTest_All.txt	TG_x_PhysicalActivity_MULTIETHNIC	circulating  Triglyceride levels with Physical Activity interaction term in Multiethnic ancestries	Check difference between joint and interaction	
-sub20190107/LDL_JointTest_Hispanic.txt	LDL_x_PhysicalActivity_HIS	circulating LDL levels with Physical Activity interaction term in Hispanic ancestry	Check difference between joint and interaction	
-sub20180728_01/POOLED.all.ddimer.rawresults.selectedcolumns_dbgap.csv	fibrin_Ddimer_EUR	fibrin fragment D-dimer in European ancestry		
+filename	id	trait	notes	build	build_match
+sub20171222/appendicularleanmass.results.metal.txt					
+sub20171222/wholebodyleanmass.results.metal.txt					
+sub20180728_04/final_meta_fibrinogen_circ2013_dbgap.csv					
+sub20180728_04/dbGaP.fibrinogen_multiethnic.meta.txt					
+sub20180108_01/MEDIA_HapMap_T2D_baseline.txt					
+sub20181101/CKDGen_1000Genomes_DiscoveryMeta_eGFRcrea_overall_chr_pos.csv					
+sub20180110/AAAGC_1KGP_WHR_MEN_DISCOVERY.txt					
+sub20180110/AAAGC_1KGP_BMI_ALL_DISCOVERY.txt					
+sub20180110/AAAGC_1KGP_BMI_MEN_DISCOVERY.txt					
+sub20180110/AAAGC_1KGP_WHR_ALL_DISCOVERY.txt					
+sub20180110/AAAGC_1KGP_WHR_WOMEN_DISCOVERY.txt					
+sub20180110/AAAGC_1KGP_BMI_WOMEN_DISCOVERY.txt					
+sub20151201/meta_v2_ratio_overall.csv					
+sub20151201/meta_fev_v2_never.csv					
+sub20151201/meta_v2_ratio_never.csv					
+sub20151201/meta_fev_v2_overall.csv					
+sub20151201/metaratio_v2_merge_ever.csv					
+sub20151201/Out_Ever_FEV11.txt					
+sub20150603/CHARGE_N3_DPA.txt					
+sub20150603/CHARGE_N3_ALA.txt					
+sub20150603/CHARGE_N3_EPA.txt					
+sub20150603/CHARGE_N3_DHA.txt					
+sub20180725/SVE.african.results.metal.csv					
+sub20180725/VE.transethnic.results.metal.csv					
+sub20180725/SVE.transethnic.results.metal.csv					
+sub20180725/VE.hispanic.results.metal.csv					
+sub20180725/VE.african.results.metal.csv					
+sub20180725/SVE.european.results.metal.csv					
+sub20180725/SVE.hispanic.results.metal.csv					
+sub20180725/VE.european.results.metal.csv					
+sub20190511/invnormFT4_women_150611_invvar1.txt-QCfiltered_GC.rsid.txt					
+sub20190511/invnormTSH_women_150611_invvar1.txt-QCfiltered_GC.rsid.txt					
+sub20190511/invnormFT4_overall_150611_invvar1.txt-QCfiltered_GC.rsid.txt					
+sub20190511/incTSH_overall_150602_invvar1.txt-QCfiltered_GC.rsid.txt					
+sub20190511/invnormFT4_men_150611_invvar1.txt-QCfiltered_GC.rsid.txt					
+sub20190511/invnormTSH_overall_150611_invvar1.txt-QCfiltered_GC.rsid.txt					
+sub20190511/invnormTSH_men_150611_invvar1.txt-QCfiltered_GC.rsid.txt					
+sub20190511/decTSH_overall_150602_invvar1.txt-QCfiltered_GC.rsid.txt					
+sub20180803/CKDGen-UACR_meta_post.csv					
+sub20180803/CKDGen-MA_meta_post.csv					
+sub20180803/CKDGen-CKD_meta_post.csv					
+sub20180803/CKDGen-eGFRcys_meta_post.csv					
+sub20180803/CKDGen-eGFRcrea_meta_post.csv					
+sub20171223_01/CHARGENutr_Fishintake_META.txt					
+sub20171223_01/CHARGENutr_EPADHA_GWAS.txt					
+sub20200609/Meta_Analysis_VTE_EA_AA_JUNE2018_dbgap.csv					
+sub20160202/FF_SpiroMetaCHARGE_results_PMID219463501.csv					
+sub20160202/FEV1_SpiroMetaCHARGE_results_PMID219463501.csv					
+sub20160313/airflow_obstruction_GWAS_results_5definitions_allinfo.csv					
+sub20160313/airflow_obstruction_GWAS_results_5definitions.csv					
+sub20180807/CKDGen_Progression_DiscoveryMeta_eGFRdecline_overall.csv					
+sub20180807/CKDGen_Progression_DiscoveryMeta_Rapid3_noCKD.csv					
+sub20180807/CKDGen_Progression_DiscoveryMeta_Rapid3_overall.csv					
+sub20180807/CKDGen_Progression_DiscoveryMeta_CKDi_overall.csv					
+sub20180807/CKDGen_Progression_DiscoveryMeta_eGFRdecline_noCKD.csv					
+sub20180807/CKDGen_Progression_DiscoveryMeta_eGFRdecline_CKD.csv					
+sub20180807/CKDGen_Progression_DiscoveryMeta_CKDi25_overall.csv					
+sub20190512/COGENT_Kidney_eGFR_trans_ethnic.txt					
+sub20190512/COGENT_Kidney_eGFR_trans_ethnic_fine_mapping.txt					
+sub20150623/lymphocytes.metal.txt					
+sub20150623/WBC.metal.txt					
+sub20150623/neutrophils.metal.txt					
+sub20150623/monocytes.metal.txt					
+sub20150623/eosinophils.metal.txt					
+sub20150623/basophils.metal.txt					
+sub20201231/BMB_any_withexclusions_sumstats_dbGaP.txt					
+sub20201231/BMB_mixed_or_strictlydeep_noexclusions_sumstats_dbGaP.txt					
+sub20201231/BMB_any_noexclusions_sumstats_dbGaP.txt					
+sub20201231/BMB_strictlylobar_withexclusions_sumstats_dbGaP.txt					
+sub20201231/BMB_strictlylobar_noexclusions_sumstats_dbGaP.txt					
+sub20201231/BMB_mixed_or_strictlydeep_withexclusions_sumstats_dbGaP.txt					
+sub20180817/DBP.results.metal.txt					
+sub20180817/SBP.results.metal.txt					
+sub20180817/HTN.results.metal.txt					
+sub20180817/PP.results.metal.txt					
+sub20161116/METAL_output_SNPTCAinteractions_RR_HSP.txt					
+sub20161116/METAL_output_SNPTCAinteractions_RRAA.txt					
+sub20161116/METAL_output_TCASNPinteractions_QT_EA.txt					
+sub20161116/METAL_output_TCASNPinteractions_QT_AA.txt					
+sub20161116/Original_METAL_output_SNPTCAinteractions_RR_EA.txt					
+sub20161116/TABLE_S1A_CHARGE_AD_ExomeChip_summary_SNP_14Oct2016.txt					
+sub20161116/METAL_output_TCASNPinteractions_QT_HSP.txt					
+sub20161116/METAL_output_SNPTCAinteractions_RR_EA.txt					
+sub20161116/TABLE_S1B_CHARGE_AD_ExomeChip_summary_SKAT_14Oct2016.txt					
+sub20200523_02/HF_B.inc.maf7.5_dbgap.csv	incident_HF_AFR	Incident Heart Failure in Adults of African ancestry			
+sub20200523_02/HF_W.metal.small.postmaf1.5_dbgap.csv	incident_HF_EUR	Incident Heart Failure in Adults of European ancestry			
+v7_pha.txt					
+sub20220411/genesis_chr10_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr05_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr21_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr11_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr13_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr07_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr12_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr01_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr02_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr17_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr06_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr19_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr08_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr20_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr16_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr14_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr03_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr04_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr18_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr15_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr09_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20220411/genesis_chr22_012919_upload.csv	eGFR	estimated glomerular filtration rate	Single chr summary statistics		
+sub20170219/All_across_dbGap_alcohol_categorical.csv					
+sub20170219/AA_dbGap_alcohol_continuous.csv					
+sub20170219/All_across_dbGap_alcohol_continuous.csv					
+sub20170219/EA_dbGap_alcohol_continuous.csv					
+sub20170219/EA_dbGap_alcohol_categorical.csv					
+sub20170219/AA_dbGap_alcohol_categorical.csv					
+sub20161126/CRP.METAL.19.06.2009.AllSNPs.csv					
+sub20180730_01/CKDGen_1000Genomes_DiscoveryMeta_eGFRcys_overall.csv					
+sub20180730_01/CKDGen_1000Genomes_DiscoveryMeta_eGFRcrea_overall.csv					
+sub20180730_01/CKDGen_1000Genomes_DiscoveryMeta_eGFRcrea_overall_chr_pos.csv					
+sub20171223_02/log_EWAS_COPD_gwasSnps_AnnotatedResults_rs13180_3models.txt					
+sub20171223_02/log_EWAS_COPD_gwasSnps_AnnotatedResults_rs8034191_3models.txt					
+sub20171223_02/log_EWAS_COPD_gwasSnps_AnnotatedResults_rs8042238_3models.txt					
+sub20171223_02/log_EWAS_COPD_gwasSnps_AnnotatedResults_rs12914385_3models.txt					
+sub20170707/Metal_complete_overall_all45ed_aug11_filter_corrHBCS_neff1.csv					
+sub20170706_01/WML_ALL.csv					
+sub20170706_01/WML_EUR.csv					
+sub20181226/F8_meta_beta_ARICf_ARICm_CHSf_CHSm_RSf_RSm_dbgap.v2.csv					
+sub20181226/F7_meta_p-value_FHS_ARIC_RS_CHS_complete_dbgap..v1.csv					
+sub20181226/F7_meta_p-value_FHS_ARICf_ARICm_RSf_RSm_CHSf_CHSm_dbgap.v2.csv					
+sub20181226/vWF_meta_beta_FHS_ARICf_ARICm_RSf_RSm_B58Cf_B58Cm_RS_RS_X_dbgap.csv					
+sub20181226/vWF_meta_beta_FHS_ARIC_RS_B58C_RS-ext_Age_Sex_complete_dbgap.csv					
+sub20181226/sub20190101_02/F7_meta_p-value_FHS_ARICf_ARICm_RSf_RSm_CHSf_CHSm_dbgap.v2.csv					
+sub20181226/F8_meta_beta_ARIC_CHS_RS_Age_Sex_complete_dbgap.v1.csv					
+sub20151005/dbg_mi_ace.invvar.beta5.metal.filtered101.txt					
+sub20151005/dbg_cv_ccb.invvar.beta5.metal.filtered101.txt					
+sub20151005/dbg_mi_bb.invvar.beta5.metal.filtered101.txt					
+sub20151005/dbg_cv_ace.invvar.beta5.metal.filtered101.txt					
+sub20151005/dbg_mi_ccb.invvar.beta5.metal.filtered101.txt					
+sub20151005/dbg_cv_diur.invvar.beta5.metal.filtered101.txt					
+sub20151005/dbg_cv_bb.invvar.beta5.metal.filtered101.txt					
+sub20151005/dbg_mi_diu.invvar.beta5.metal.filtered101.txt					
+sub20190101_01/su-qrs-ea.results.metal.txt					
+sub20160828/Teumer/IGFBP3_overall_meta_r1_combined_samplesize1.txt_GC.csvQCfiltered.txt					
+sub20160828/Teumer/IGF1_men_meta_r1_combined_samplesize1.txt_GC.csvQCfiltered.txt					
+sub20160828/Teumer/IGFBP3_women_meta_r1_combined_samplesize1.txt_GC.csvQCfiltered.txt					
+sub20160828/Teumer/IGFBP3_men_meta_r1_combined_samplesize1.txt_GC.csvQCfiltered.txt					
+sub20160828/Teumer/IGF1_overall_meta_r1_combined_samplesize1.txt_GC.csvQCfiltered.txt					
+sub20160828/Teumer/IGF1_women_meta_r1_combined_samplesize1.txt_GC.csvQCfiltered.txt					
+sub20160828/Liu/DBP_all_ethnic_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/MAP_AA_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/DBP_HIS_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/MAP_EA_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/SBP_all_ethnic_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/PP_AA_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/MAP_all_ethnic_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/SBP_AA_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/DBP_EA_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/HTN_all_ethnic_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/DBP_AA_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/PP_all_ethnic_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/HTN_EA_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/HTN_HIS_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/SBP_HIS_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/SBP_EA_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/MAP_HIS_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/HTN_AA_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/PP_HIS_CHARGE_lookup_dbGap2.csv					
+sub20160828/Liu/PP_EA_CHARGE_lookup_dbGap2.csv					
+sub20200919/INVENT_MetaVT_AJHG2015_dbgap_v2.csv					
+sub20160307/CHD_Discovery_AGES.ARIC.CHS.FHSnew.RS.txt					
+sub20160307/ln_fibrinogen_CHARGEconsortium_2015_filtered.txt					
+sub20160307/MI_Discovery_AGES.ARIC.CHS.FHSnew.RS.txt					
+sub20161219/men_dichotomous_alcohol.csv					
+sub20161219/pooled_dichotomous_alcohol.csv					
+sub20161219/women_dichotomous_alcohol.csv					
+sub20161219/men_continuous_alcohol.csv					
+sub20161219/women_continuous_alcohol.csv					
+sub20161219/pooled_continuous_alcohol.csv					
+sub20150818/dbg_charge.plq.meta7.csv					
+sub20150818/dbg_charge.IMT.meta9b.csv					
+sub20200523_05/EchoGen-EEP-fullresults_dbgap.csv	E/Eprime	Ratio of the peak velocity of the excursion of the lateral mitral annulus in the early diastolic phase by TDI and the peak velocity of the mitral Ewave by Doppler imaging 			
+sub20200523_05/EchoGen.LVM.fullresults_dbgap.csv	LVM	LV mass			
+sub20200523_05/EchoGen.LVSD.fullresults_dbgap.csv	LVSD	LV systolic dysfunction			
+sub20200523_05/EchoGen-DD-fullresults_dbgap.csv	DD	LV Diastolic Dysfunction			
+sub20200523_05/EchoGen-HFPEF-fullresults_dbgap.csv	HFpEF	Heart Failure with preserved ejection fraction			
+sub20200523_05/EchoGen-DDPEF-fullresults_dbgap.csv	DDpEF	Diastolic Dysfunction with preserved ejection fraction			
+sub20200523_05/EchoGen.LA.fullresults_dbgap.csv	LA	Left atrial antero-posterior diameter 			
+sub20200523_05/EchoGen-Decel-fullresults_dbgap.csv	DecTime	Deceleration time of the mitral E-wave 			
+sub20200523_05/EchoGen-EA-fullresults_dbgap.csv	E/A	Ratio of the peak velocity of the mitral E-Wave divided by the peak velocity of the mitral A-wave			
+sub20200523_05/EchoGen-A-fullresults_dbgap.csv	MVA vel	Peak velocity of the mitral A-wave			
+sub20200523_05/EchoGen.FS.fullresults_dbgap.csv	FS	Left ventricular fractional shortening			
+sub20200523_05/EchoGen-E-fullresults_dbgap.csv	MVE vel	Peak velocity of the mitral E-wave			
+sub20200523_05/EchoGen.LVDD.fullresults_dbgap.csv	LVDD	LV diastolic internal dimension			
+sub20200523_05/EchoGen.AOD.fullresults_dbgap.csv	AoD	Aortic Root Diameter			
+sub20200523_05/EchoGen-IVRT-fullresults_dbgap.csv	IVRT	Isovolumetric relaxation time			
+sub20200523_05/EchoGen-EP-fullresults_dbgap.csv	Eprime	Peak velocity of the excursion of the lateral mitral annulus in the early diastolic phase			
+sub20200523_05/EchoGen.LVWT.fullresults_dbgap.csv	LVWT	LV wall thickness			
+sub20200401/CACdich100_fe_10_29_2010_15_24_91.txt					
+sub20190527_02/TRANS.HDL.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/EUR.TG.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/TRANS.TG.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/EUR.HDL.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/HISP.TG.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/HISP.HDL.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/HISP.HDL.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/HISP.LDL.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/TRANS.HDL.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/HISP.LDL.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/EUR.HDL.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/HISP.TG.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/TRANS.LDL.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/TRANS.HDL.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/HISP.LDL.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/EUR.LDL.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/EUR.TG.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/HISP.TG.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/TRANS.LDL.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/HISP.HDL.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/EUR.LDL.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/EUR.HDL.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/TRANS.TG.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/HISP.LDL.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/EUR.LDL.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/TRANS.TG.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/HISP.TG.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/TRANS.LDL.EVERSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/EUR.TG.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/EUR.HDL.EVERSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/TRANS.HDL.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/EUR.TG.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/EUR.LDL.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/TRANS.TG.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/TRANS.LDL.CURSMK.Int.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20190527_02/HISP.HDL.CURSMK.2df.txt			Incomplete summary statistics (metadata in folder sub20190527_01)		
+sub20151222/FVC_SpiroMetaCHARGE_results_PMID24929828.csv					
+sub20170707_01/hipp_vol_meta.csv					
+sub20190513/data_file.txt					
+sub20180728/meta-inr-no-outliers-stderr_dbgap.csv					
+sub20180728/aptt_meta_pval-unstandardized-lbc_update_dbgap.csv					
+sub20180808/formatted_round3meta_eGFRcrea_DM_IV_2GC_b36_MAFget005_Nget50_20140331.csv					
+sub20180808/formatted_round3meta_eGFRcys_overall_IV_2GC_b36_MAFget005_Nget50_20120725.csv					
+sub20180808/formatted_AA_eGFRcrea_overall_2GC_b36_MAFget005_Nget50.csv					
+sub20180808/formatted_round3meta_CKD_overall_IV_2GC_b36_MAFget005_Nget50_20120725_b37.csv					
+sub20180808/formatted_round3meta_eGFRcrea_nonDM_IV_2GC_b36_MAFget005_Nget50_20120627.csv					
+sub20180808/formatted_round3meta_eGFRcrea_overall_IV_2GC_b36_MAFget005_Nget50_20120705.csv					
+sub20180728_03/HapMapvs1000G.Fibrinogen.1000G_filtered_dbgap.csv					
+sub20180728_03/HapMapvs1000G.Fibrinogen.HapMap_filtered_dbgap.csv					
+sub20180728_03/fibrinogen.sa.final.POOLED.ABEL_dbgap.csv					
+sub20190616/20171016_MW_eGFR_overall_ALL_nstud61.dbgap.txt					
+sub20190616/BUN_overall_EA_YL_20171108_METAL1_nstud24.dbgap.txt					
+sub20190616/CKD_overall_EA_JW_20180223_nstud23.dbgap.txt					
+sub20190616/BUN_overall_ALL_YL_20171017_METAL1_nstud_33.dbgap.txt					
+sub20190616/20171017_MW_eGFR_overall_EA_nstud42.dbgap.txt					
+sub20190616/CKD_overall_ALL_JW_20180223_nstud30.dbgap.txt					
+sub20180723/bihlmeyer_2018_qt_results.tsv					
+sub20180723/bihlmeyer_2018_jt_results.tsv					
+sub20181231_01/pth.gwas.m2.txt					
+sub20170708_02/mPooledcleaned.iscstroke_SDshort.csv					
+sub20190527/AFR.LDL.EVERSMK.Int.txt			Incomplete summary statistics		
+sub20190527/AFR.LDL.CURSMK.Int.txt			Incomplete summary statistics		
+sub20190527/ASN.TG.CURSMK.Int.txt			Incomplete summary statistics		
+sub20190527/AFR.LDL.EVERSMK.2df.txt			Incomplete summary statistics		
+sub20190527/ASN.TG.EVERSMK.Int.txt			Incomplete summary statistics		
+sub20190527/ASN.LDL.CURSMK.Int.txt			Incomplete summary statistics		
+sub20190527/AFR.HDL.CURSMK.2df.txt			Incomplete summary statistics		
+sub20190527/ASN.HDL.CURSMK.2df.txt			Incomplete summary statistics		
+sub20190527/AFR.TG.CURSMK.2df.txt			Incomplete summary statistics		
+sub20190527/ASN.TG.CURSMK.2df.txt			Incomplete summary statistics		
+sub20190527/ASN.LDL.EVERSMK.Int.txt			Incomplete summary statistics		
+sub20190527/ASN.LDL.EVERSMK.2df.txt			Incomplete summary statistics		
+sub20190527/AFR.TG.EVERSMK.2df.txt			Incomplete summary statistics		
+sub20190527/ASN.TG.EVERSMK.2df.txt			Incomplete summary statistics		
+sub20190527/AFR.HDL.EVERSMK.Int.txt			Incomplete summary statistics		
+sub20190527/ASN.HDL.EVERSMK.2df.txt			Incomplete summary statistics		
+sub20190527/ASN.LDL.CURSMK.2df.txt			Incomplete summary statistics		
+sub20190527/AFR.TG.CURSMK.Int.txt			Incomplete summary statistics		
+sub20190527/AFR.TG.EVERSMK.Int.txt			Incomplete summary statistics		
+sub20190527/ASN.HDL.EVERSMK.Int.txt			Incomplete summary statistics		
+sub20190527/AFR.HDL.EVERSMK.2df.txt			Incomplete summary statistics		
+sub20190527/AFR.HDL.CURSMK.Int.txt			Incomplete summary statistics		
+sub20190527/ASN.HDL.CURSMK.Int.txt			Incomplete summary statistics		
+sub20190527/AFR.LDL.CURSMK.2df.txt			Incomplete summary statistics		
+sub20181231/fgf23gwas.model1.txt					
+sub20161118/02_TransEthnicRBC.txt					
+sub20181227/Plaque_meta_032218.csv					
+sub20181227/IMT.EA.META.MAF1.HetDF4_jun.csv					
+sub20180804/formatted_round3meta_UACR_overall_IV_2GC_b36_MAFget005_Nget50_20140505.csv					
+sub20180804/formatted_Round3_UACR_DM_2GC_b36_MAFget005_Nget50_2014_03_17.csv					
+sub20180804/formatted_Round3_UACR_noDM_2GC_b36_MAFget005_Nget50_2014_09_29.csv					
+sub20180804/formatted_MA_overall_2GC_b36_MAFget005_Nget50.csv					
+sub20180810/Published_eGFRcrea_overall_EA.csv					
+sub20180810/Published_eGFRcys_overall_AA.csv					
+sub20180810/Published_eGFRcrea_DM_EA.csv					
+sub20180810/Published_UACR_AA.csv					
+sub20180810/Published_eGFRcrea_nonDM_AA.csv					
+sub20180810/Published_eGFRcys_overall_EA.csv					
+sub20180810/Published_eGFRcrea_DM_AA.csv					
+sub20180810/Published_UACR_EA.csv					
+sub20180810/Published_eGFRcrea_overall_AA.csv					
+sub20180810/Published_eGFRcrea_nonDM_EA.csv					
+sub20200523_04/HF.mort.metabel.largeMA.maf3_dbgap.csv	HF_mort_EUR	Heart Failure Mortality in Participants of European Ancestry			
+sub20201231_01/BP-ICE_EUR_SBP_transformed_15-04-2020.txt					
+sub20201231_01/BP-ICE_PA_PP_transformed_15-04-2020.txt					
+sub20201231_01/BP-ICE_PA_SBP_transformed_15-04-2020.txt					
+sub20201231_01/BP-ICE_EUR_HTN_15-04-2020.txt					
+sub20201231_01/BP-ICE_EUR_PP_transformed_15-04-2020.txt					
+sub20201231_01/BP-ICE_PA_DBP_transformed_15-04-2020.txt					
+sub20201231_01/BP-ICE_EUR_DBP_transformed_15-04-2020.txt					
+sub20201231_01/BP-ICE_PA_HTN_15-04-2020.txt					
+sub20170706/mwmh_meta_final_SD.csv					
+sub20200523_01/FINALtrans_VWF_EA_AA_HIS.csv	vWF_MULTIETHNIC	von Willebrand Factor in multi-ethnic studies			
+sub20200523_01/FINALtrans_FVIII_EA_AA_HIS_ASN.csv	FVIII_MULTIETHNIC	Factor VIII in multi-ethnic studies			
+sub20190101/HapMap_CRP_GWAS_AJHG_2018.txt					
+sub20190101/1KG_CRP_GWAS_AJHG_2018.txt					
+sub20201228/GIST_LDLstatinResponse_HapMap_2014_Postmus_GWASmetaResults.txt					
+sub20200329/Hispanic.QRS.GWAS.FullResults.GenomicControl.Final.csv					
+sub20200329/METAL_TAC_Fullresults.txt					
+sub20200329/METAL_AAC_Fullresults.txt					
+sub20200329/BackPain_METAL_out_EUR_2017-11-08_LDSR.txt					
+sub20200416/PROCESSED.EA_HDL_STST_M1_2DF1.TBL.txt					
+sub20200416/PROCESSED.EA_LDL_STST_M1_2DF1.TBL.txt					
+sub20200416/PROCESSED.EA_LDL_LTST_M1_2DF1.TBL.txt					
+sub20200416/PROCESSED.EA_HDL_LTST_M1_2DF1.TBL.txt					
+sub20200416/PROCESSED.MULTI_HDL_LTST_M1_2DF1.TBL.txt					
+sub20200416/PROCESSED.MULTI_LDL_LTST_M1_2DF1.TBL.txt					
+sub20200416/PROCESSED.MULTI_TG_STST_M1_2DF1.TBL.txt					
+sub20200416/PROCESSED.MULTI_LDL_STST_M1_2DF1.TBL.txt					
+sub20200416/PROCESSED.EA_TG_LTST_M1_2DF1.TBL.txt					
+sub20200416/PROCESSED.MULTI_HDL_STST_M1_2DF1.TBL.txt					
+sub20200416/PROCESSED.MULTI_TG_LTST_M1_2DF1.TBL.txt					
+sub20200416/PROCESSED.EA_TG_STST_M1_2DF1.TBL.txt					
+sub20181226_01/PRO.txt	protein_intake_EUR	protein intake in European ancestry 			
+sub20181226_01/FAT.txt	fat_intake_EUR	fat intake in European ancestry 			
+sub20181226_01/CHO.txt	carbohydrate_intake_EUR	carbohydrate intake in European ancestry 			
+sub20181226_01/FAT_adjBMI.txt	fat_intake_BMI_adjusted_EUR	fat intake adjusted for BMI in European ancestry 			
+sub20181226_01/PRO_adjBMI.txt	protein_intake_BMI_adjusted_EUR	protein intake adjusted for BMI in European ancestry 			
+sub20181226_01/CHO_adjBMI.txt	carbohydrate_intake_BMI_adjusted_EUR	carbohydrate intake adjusted for BMI in European ancestry 			
+sub20200523_03/HF.mort.metabel.CHSjune09.beta5.weightedmaf3_dbgap.csv	HF_mort_EUR_AME	Heart Failure Mortality in European Americans 			
+sub20200523_03/HF_B.mort.metabel.beta5.weightedmaf13.5_dbgap.csv	HF_mort_AFR_AME	Heart Failure Mortality in African Americans			
+sub20170704/Wessel/fgluc_singleSNP_meta_eu_full_01292014_quote.csv			only low-frequency and rare variants 		
+sub20170704/Wessel/fgluc_singleSNP_meta_af_full_01292014_quote.csv			only low-frequency and rare variants 		
+sub20170704/Wessel/fgluc_MB_burden_WU_skat_meta_af_8cohorts_new.txt			only low-frequency and rare variants 		
+sub20170704/Wessel/lfins_singleSNP_meta_eu_full_11132013_quote.csv			only low-frequency and rare variants 		
+sub20170704/Wessel/fgluc_MB_burden_WU_skat_meta_eu_af_32cohorts_new.txt			only low-frequency and rare variants 		
+sub20170704/Wessel/fgluc_MB_burden_WU_skat_meta_eu_24cohorts.txt			only low-frequency and rare variants 		
+sub20170704/Wessel/fgluc_singleSNP_meta_eu_af_full_01292014_quote.csv			only low-frequency and rare variants 		
+sub20170704/Wessel/lfins_singleSNP_meta_eu_af_full_11132013_quote.csv			only low-frequency and rare variants 		
+sub20170704/Wessel/lfins_MB_burden_WU_skat_meta_eu_21cohorts_new.txt			only low-frequency and rare variants 		
+sub20170704/Wessel/lfins_singleSNP_meta_af_full_11132013_quote.csv			only low-frequency and rare variants 		
+sub20170704/Wessel/lfins_MB_burden_WU_skat_meta_eu_af_28cohorts_new.txt			only low-frequency and rare variants 		
+sub20170704/Wessel/lfins_MB_burden_WU_skat_meta_af_7cohorts_new.txt			only low-frequency and rare variants 		
+sub20170704/Floyd/suqrsha.results.metal.txt			only low-frequency and rare variants 		
+sub20170704/Floyd/suqrsaa.results.metal.txt			only low-frequency and rare variants 		
+sub20170704/Floyd/suqtea.results.metal.txt			only low-frequency and rare variants 		
+sub20170704/Floyd/suqtha.results.metal.txt			only low-frequency and rare variants 		
+sub20170704/Floyd/sujtaa.results.metal.txt			only low-frequency and rare variants 		
+sub20170704/Floyd/sujtea.results.metal.txt			only low-frequency and rare variants 		
+sub20170704/Floyd/suqrsea.results.metal.txt			only low-frequency and rare variants 		
+sub20170704/Floyd/suqtaa.results.metal.txt			only low-frequency and rare variants 		
+sub20170704/Floyd/sujtha.results.metal.txt			only low-frequency and rare variants 		
+sub20170704/Jakob/TABLE_S1A_CHARGE_AD_ExomeChip_summary_SNP_14Oct2016.txt			only low-frequency and rare variants 		
+sub20170704/Jakob/TABLE_S1B_CHARGE_AD_ExomeChip_summary_SKAT_14Oct2016.txt			only low-frequency and rare variants 		
+sub20170704/Peloso/ldl_ea_charge_exome_chip_results.txt			only low-frequency and rare variants 		
+sub20170704/Peloso/ldl_aa_charge_exome_chip_results.txt			only low-frequency and rare variants 		
+sub20170704/Peloso/hdl_aa_charge_exome_chip_results.txt			only low-frequency and rare variants 		
+sub20170704/Peloso/ltg_ea_charge_exome_chip_results.txt			only low-frequency and rare variants 		
+sub20170704/Peloso/ltg_aa_charge_exome_chip_results.txt			only low-frequency and rare variants 		
+sub20170704/Peloso/hdl_ea_charge_exome_chip_results.txt			only low-frequency and rare variants 		
+sub20180818/vv.results.metal.txt	brain_LV_volume	brain lateral ventricular volume			
+sub20200905/EchoGen-E-fullresults_dbgap.csv			duplicated file (see also in folder sub20200523_05)		
+sub20170708/TCBV_charge_meta.csv	brain_volume_non_demented_elderly_EUR	brain volume in Non-demented Elderly  in European ancestry			
+sub20170708/TCV_meta.csv	intracranial_volume_non_demented_elderly_EUR	intracranial volume in Non-demented Elderly  in European ancestry			
+sub20170708/mSCI_meta_final_Josh_SD.csv	MRI_brain_infarct_EUR	MRI-defined (slient) brain infarct in EUR ancestry			
+sub20200523/FVIIactivity_EA_AA_trans.csv	FVII_activity	Factor VII activity			
+sub20200523/FINALtrans_FVII_EA_AA.csv	FVII_activity_and_Ag	Factor VII activity and antigen			
+sub20180730/metal_European_ratio_dbgap.txt	FEV1/FVC_EUR	forced expiratory volume at 1 second to forced vital capacity ratio in European ancestry			
+sub20180730/metal_Asians_fev1_dbgap.txt	FEV1_ASN	forced expiratory volume at 1 second in Asian ancestry			
+sub20180730/metal_Hispanics_fvc_dbgap.txt	FVC_HIS	forced vital capacity in Hispanic ancestry			
+sub20180730/metal_European_fvc_dbgap.txt	FVC_EUR	forced vital capacity in European ancestry			
+sub20180730/metal_Multi_ethnic_fev1_dbgap.txt	FEV1_MULTIETHNIC	forced expiratory volume at 1 second in Multiethnic ancestry			
+sub20180730/metal_African_fvc_dbgap.txt	FVC_AFR	forced vital capacity in African ancestry			
+sub20180730/metal_African_ratio_dbgap.txt	FEV1/FVC_AFR	forced expiratory volume at 1 second to forced vital capacity ratio in African ancestry			
+sub20180730/metal_African_fev1_dbgap.txt	FEV1_AFR	forced expiratory volume at 1 second in African ancestry			
+sub20180730/metal_European_fev1_dbgap.txt	FEV1_EUR	forced expiratory volume at 1 second in European ancestry			
+sub20180730/metal_Asians_ratio_dbgap.txt	FEV1/FVC_ASN	forced expiratory volume at 1 second to forced vital capacity ratio in Asian ancestry			
+sub20180730/metal_Multi_ethnic_fvc_dbgap.txt	FVC_MULTIETHNIC	forced vital capacity in Multiethnic ancestry			
+sub20180730/metal_Asians_fvc_dbgap.txt	FVC_ASN	forced vital capacity in Asian ancestry			
+sub20180730/metal_Hispanics_ratio_dbgap.txt	FEV1/FVC_HIS	forced expiratory volume at 1 second to forced vital capacity ratio in Hispanic ancestry			
+sub20180730/metal_Hispanics_fev1_dbgap.txt	FEV1_HIS	forced expiratory volume at 1 second in Hispanic ancestry			
+sub20180730/metal_Multi_ethnic_ratio_dbgap.txt	FEV1/FVC_MULTIETHNIC	forced expiratory volume at 1 second to forced vital capacity ratio in Multiethnic ancestry			
+sub20180801/eGFR.Mendelian.Summary_Results.txt			Incomplete summary statistics		
+sub20200403/formatted_ER_overall_180803_invvar1.txt-QCfiltered_GC.txt	ERP_EUR	ECG Early Repolarization Pattern in European ancestry			
+sub20190107/HDL_JointTest_Hispanic.txt	HDL_x_PhysicalActivity_HIS	circulating  HDL levels with Physical Activity interaction term in Hispanic ancestry	Check difference between joint and interaction		
+sub20190107/LDL_Interaction_European.txt			Check difference between joint and interaction		
+sub20190107/LDL_Interaction_Asian.txt			Check difference between joint and interaction		
+sub20190107/LDL_Interaction_AfricanAmerican.txt			Check difference between joint and interaction		
+sub20190107/HDL_Interaction_European.txt			Check difference between joint and interaction		
+sub20190107/LDL_JointTest_AfricanAmerican.txt	LDL_x_PhysicalActivity_AFR	circulating LDL levels with Physical Activity interaction term in African ancestry	Check difference between joint and interaction		
+sub20190107/LDL_Interaction_All.txt			Check difference between joint and interaction		
+sub20190107/TG_JointTest_Hispanic.txt	TG_x_PhysicalActivity_HIS	circulating  Triglyceride levels with Physical Activity interaction term in Hispanic ancestry	Check difference between joint and interaction		
+sub20190107/TG_JointTest_AfricanAmerican.txt	TG_x_PhysicalActivity_AFR	circulating  Triglyceride levels with Physical Activity interaction term in African ancestry	Check difference between joint and interaction		
+sub20190107/HDL_Interaction_All.txt			Check difference between joint and interaction		
+sub20190107/LDL_JointTest_Asian.txt	LDL_x_PhysicalActivity_ASN	circulating LDL levels with Physical Activity interaction term in Asian ancestry	Check difference between joint and interaction		
+sub20190107/HDL_Interaction_AfricanAmerican.txt			Check difference between joint and interaction		
+sub20190107/HDL_JointTest_European.txt	HDL_x_PhysicalActivity_EUR	circulating  HDL levels with Physical Activity interaction term in European ancestry	Check difference between joint and interaction		
+sub20190107/LDL_Interaction_Hispanic.txt			Check difference between joint and interaction		
+sub20190107/TG_Interaction_Hispanic.txt			Check difference between joint and interaction		
+sub20190107/TG_JointTest_Asian.txt	TG_x_PhysicalActivity_ASN	circulating  Triglyceride levels with Physical Activity interaction term in Asian ancestry	Check difference between joint and interaction		
+sub20190107/HDL_JointTest_AfricanAmerican.txt	HDL_x_PhysicalActivity_AFR	circulating  HDL levels with Physical Activity interaction term in African ancestry	Check difference between joint and interaction		
+sub20190107/HDL_JointTest_All.txt	HDL_x_PhysicalActivity_MULTIETHNIC	circulating  HDL levels with Physical Activity interaction term in Multiethnic ancestry	Check difference between joint and interaction		
+sub20190107/TG_Interaction_All.txt			Check difference between joint and interaction		
+sub20190107/HDL_Interaction_Hispanic.txt			Check difference between joint and interaction		
+sub20190107/LDL_JointTest_All.txt	LDL_x_PhysicalActivity_MULTIETHNIC	circulating LDL levels with Physical Activity interaction term in Multiethnic ancestry	Check difference between joint and interaction		
+sub20190107/TG_Interaction_Asian.txt			Check difference between joint and interaction		
+sub20190107/TG_Interaction_AfricanAmerican.txt			Check difference between joint and interaction		
+sub20190107/TG_JointTest_European.txt	TG_x_PhysicalActivity_EUR	circulating  Triglyceride levels with Physical Activity interaction term in European ancestry	Check difference between joint and interaction		
+sub20190107/HDL_Interaction_Asian.txt			Check difference between joint and interaction		
+sub20190107/HDL_JointTest_Asian.txt	HDL_x_PhysicalActivity_ASN	circulating  HDL levels with Physical Activity interaction term in Asian ancestry	Check difference between joint and interaction		
+sub20190107/LDL_JointTest_European.txt	LDL_x_PhysicalActivity_EUR	circulating LDL levels with Physical Activity interaction term in European ancestry	Check difference between joint and interaction		
+sub20190107/TG_Interaction_European.txt			Check difference between joint and interaction		
+sub20190107/TG_JointTest_All.txt	TG_x_PhysicalActivity_MULTIETHNIC	circulating  Triglyceride levels with Physical Activity interaction term in Multiethnic ancestries	Check difference between joint and interaction		
+sub20190107/LDL_JointTest_Hispanic.txt	LDL_x_PhysicalActivity_HIS	circulating LDL levels with Physical Activity interaction term in Hispanic ancestry	Check difference between joint and interaction		
+sub20180728_01/POOLED.all.ddimer.rawresults.selectedcolumns_dbgap.csv	fibrin_Ddimer_EUR	fibrin fragment D-dimer in European ancestry			
